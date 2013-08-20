@@ -1,7 +1,6 @@
 Arduino powered LED 'Fuzzy Clock'
 =================================
 
-CNc-cut acrylic clock with wooden base, that uses an [Adafruit 30 led digital strip][strip] and [Sparkfun Arduino ProMini 5v][Arduino] to indicate the passage of time by varying the color and intensity of the LED under each number. 
 
 CNc-cut acrylic clock with wooden base, that uses an [Adafruit 30 led digital strip][strip] and [Sparkfun Arduino ProMini][Arduino] to indicate the passage of time by varying the color and intensity of the LED under each number. It requires the [Adafruit Neopixel library][library] and is based on their examples files. The 'fuzzy_clock' Arduino sketch is licensed under the same GPL license as the Adafruit files and is contained in the 'copying' file.
 
